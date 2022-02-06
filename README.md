@@ -13,6 +13,3 @@
   * 6kyu
     * [Find the unique number](Python/FindUniq.py)
     * [Convert string to camel case](Python/ToCamelCase.py)
-
-## Примечание
-Чтобы скомпилировать файл с задачей, написанной на Java, необходимо переименовать выбранный файл в `Main.java`.
